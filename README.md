@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hello there?
 
+I'm just random github retard trying to learn anything. Ignore most of stuff from this profile xD
+
+![Logo](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Logo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 <!--
 **proxer05/proxer05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
