@@ -1,19 +1,10 @@
-## Hello there?
-
-I'm just random github retard trying to learn anything. Ignore most of stuff from this profile xD
-
-![Logo](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Logo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-<!--
-**proxer05/proxer05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hello there?
+    <br>I'm just random github retard trying to learn anything. Ignore most of stuff from this profile xD
+    <br>
+    <img src="https://i.imgur.com/VP9QIDJ.gif" width="200px" height="200px" align="center">
+  </samp>
+</p>
