@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: Hello there?
-    <br>I'm just random github retard trying to learn anything. Ignore most of stuff from this profile xD
+    <br>Me pero andromeme de🅱️eloper.(not rly)
     <br>
     <img src="https://i.imgur.com/VP9QIDJ.gif" width="200px" height="200px" align="center">
   </samp>
