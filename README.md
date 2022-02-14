@@ -5,6 +5,8 @@
     :wave: Hello there?
     <br>Me pero andromeme de🅱️eloper.(not rly)
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=proxer05&&show_icons=true&&hide_border=true&&theme=radical" /><br>
+    <a href="https://github.com/proxer05">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=proxer05&&show_icons=true&&hide_border=true&&theme=radical" />
+    </a>
   </samp>
 </p>
